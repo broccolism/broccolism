@@ -1,16 +1,27 @@
-### Hi there 👋
-
-<!--
-**broccolism/broccolism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### 🥦 broccolism
+> More learn, Higher resolution to see the world.
 
 - 🔭 I’m currently working on ...
+    - Developing shopping mall in a startup company (PGCG).
+    - Making mobile game using recommender system as a graduation project.
+
 - 🌱 I’m currently learning ...
+    - CS lectures: HCI and Data Mining.
+    - Co-working: Communication, Planning.
+    - Others: Recommender systems
+
+- 😎 Also Interested in ...
+    - Art and Design (sure, they are different).
+    - Humanities, Phycology, Philosophy
+
+- 💬 Ask me about ...
+    - everything. I would appreciate it.
+
+- ⚡ Fun fact:
+    - I love green color, but I don't have any clothes with it.
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
