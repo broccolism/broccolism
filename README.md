@@ -2,7 +2,7 @@
 > More learn, Higher resolution to see the world.
 
 - 🔭 I’m currently working on ...
-    - Developing shopping mall in a startup company (PGCG) and making a mobile game using recommender system as a graduation project.
+    - Developing shopping mall & mobile game using recommender system.
 
 - 🌱 I’m currently learning ...
     - CS lectures - HCI and Data Mining & Co-working & Recommender systems
