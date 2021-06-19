@@ -3,7 +3,7 @@
 
 - I’m currently working on **Developing shopping mall, mobile game using recommender system**.
 
-- I’m currently learning CS lectures - **Human Computer Interaction, Data Mining**, Co-working, **Recommender systems**.
+- I’m currently learning - **Recommender systems, Data Mining**, React, Flutter.
     
 - 💬 Ask me about everything. I would appreciate it.
 
