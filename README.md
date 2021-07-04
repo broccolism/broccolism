@@ -1,9 +1,9 @@
 ### 🥦 broccolism
 > More learn, Higher resolution to see the world.
 
-- I’m currently working on **Developing shopping mall, mobile game using recommender system**.
+- I’m currently working on **developing shopping mall and mobile app using recommender system**.
 
-- I’m currently learning - **Recommender systems, Data Mining**, React, Flutter.
+- I’m currently learning - **Recommender systems, Data Mining**, React, Flutter, Javascript.
     
 - 💬 Ask me about everything. I would appreciate it.
 
