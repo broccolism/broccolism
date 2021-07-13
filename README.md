@@ -3,7 +3,7 @@
 
 - I’m currently working on **developing shopping mall and mobile app using recommender system**.
 
-- I’m currently learning - **Recommender systems, Data Mining**, React, Flutter, Javascript.
+- I’m currently learning - **Recommender systems**, React, Flutter, Javascript.
     
 - 💬 Ask me about everything. I would appreciate it.
 
