@@ -1,7 +1,7 @@
 ### 🥦 broccolism
 > More learn, Higher resolution to see the world.
 
-- I’m currently working on **developing flutter mobile app client and typescript server for another app**.
+- I’m currently working on **developing flutter mobile app client and typescript server & react client for graduation project**.
 
 - I’m currently learning - **Recommender systems**, React, Flutter, Javascript.
     
