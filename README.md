@@ -1,10 +1,10 @@
 ### 🥦 broccolism
 > More learn, Higher resolution to see the world.
 
-- I’m currently working on **developing flutter mobile app client and typescript server & react client for graduation project**.
+- I’m currently working on **developing flutter mobile app client and creating my own github blog**.
 
-- I’m currently learning - **Recommender systems**, React, Flutter, Javascript.
-    
+- I’m currently learning - Flutter, MySQL.
+
 - 💬 Ask me about everything. I would appreciate it.
 
 - Also Interested in Art and Design (sure, they are different), Humanities, Phycology, Philosophy
