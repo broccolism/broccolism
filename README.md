@@ -4,6 +4,7 @@
 - I’m currently working on **developing flutter mobile app client and creating my own github blog**.
 
 - I’m currently learning - Flutter, MySQL.
+    - I have studied - recommender system, HCI, Javascript, and React.
 
 - 💬 Ask me about everything. I would appreciate it.
 
