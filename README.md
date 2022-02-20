@@ -1,12 +1,13 @@
 ### 🥦 broccolism
 > More learn, Higher resolution to see the world.
 
-- I’m currently working on **digging into the Flutter framework**.
+- I’m currently working on **making a server with Spring, writing blog posts about books**.
 
-- I’m currently learning - Flutter.
-    - I have studied - MySQL, recommender system, HCI, Javascript, and React.
+- I’m currently learning - JAVA, OOP, Spring, distributed database system.
+    - I have studied - database, recommender system, HCI, Javascript/Typescript, React, and Flutter.
 
-- I've been working as a Flutter developer for 1.2 years.
+- I've been just starting to work as a backend developer.
+    - I have worked as a mobile developer using Flutter for 1.5 years.
 
 - 💬 Ask me about everything. I would appreciate it.
 
