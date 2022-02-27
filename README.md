@@ -10,7 +10,7 @@
 - I've been just starting to work as a backend developer.
     - I have worked as a mobile developer using Flutter for 1.5 years.
 
-- 💬 Ask me about everything. I would appreciate it.
+- 💬 Ask me about everything. I would appreciate it. mile3880@gmail.com
 
 - Also Interested in Art and Design (sure, they are different), Humanities, Phycology, Philosophy
 
