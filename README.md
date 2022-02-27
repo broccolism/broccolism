@@ -1,9 +1,10 @@
 ### 🥦 broccolism
 > More learn, Higher resolution to see the world.
 
-- I’m currently working on **making a server with Spring, writing blog posts about books**.
+- I’m currently working on **making a server with Spring, writing blog posts after reading**.
 
-- I’m currently learning - JAVA, OOP, Spring, distributed database system.
+- I’m currently learning - JAVA, OOP, Spring, Angular, distributed database system.
+    - All the Java stuff and Angular: for work. I don't really prefer using them. 
     - I have studied - database, recommender system, HCI, Javascript/Typescript, React, and Flutter.
 
 - I've been just starting to work as a backend developer.
