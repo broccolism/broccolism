@@ -1,7 +1,7 @@
 ### 🥦 broccolism
 > More learn, Higher resolution to see the world.
 
-- I’m currently working on **making a server with Spring, writing blog posts after reading, personal project for my green github profile**.
+- I’m currently working on **making a backend server with Spring, writing blog posts after reading, personal project for my green github profile**.
 
 - I’m currently learning - JAVA, OOP, Spring, Angular, distributed database system.
     - All the Java stuff and Angular: for work. I don't really prefer using them. 
