@@ -4,7 +4,7 @@
 - I’m currently working on **making a backend server with Spring, writing blog posts after reading, personal project for my green github profile**.
 
 - I’m currently learning - JAVA, OOP, Spring, Angular, distributed database system.
-    - All the Java stuff and Angular: for work. I don't really prefer using them. 
+    - All the Java stuff and Angular: for work. Getting closer with them...
     - I have studied - database, recommender system, HCI, Javascript/Typescript, React, and Flutter.
 
 - I've been just starting to work as a backend developer.
