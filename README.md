@@ -2,19 +2,16 @@
 > More learn, Higher resolution to see the world.
 
 - I’m currently working on **gaining wide and shallow experiences**.
+  - studying - JAVA, OOP, Spring, Angular.
+  - enjoyed learning - recommender system, HCI, Javascript/Typescript, React, and Flutter.
 
-- I’m currently studying - JAVA, OOP, Spring, Angular.
-    - I have enjoyed learning - recommender system, HCI, Javascript/Typescript, React, and Flutter.
+---
 
-- I've been just starting to work as a backend developer.
-    - I have an experience as a mobile developer using Flutter for 1.5 years.
-
-- 💬 Ask me about everything. I would appreciate it. mile3880@gmail.com
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=broccolism)](https://velog.io/broccolism.log)
 
 - Also Interested in Art and Design (sure, they are different), Humanities, Phycology, Philosophy.
- 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=broccolism)](https://github.com/eungyeole/velog-readme-stats)
 
+- Ask me everything. I would appreciate it. mile3880@gmail.com
 
 <!--
 - 👯 I’m looking to collaborate on ...
