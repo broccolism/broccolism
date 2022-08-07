@@ -13,8 +13,8 @@
 
 - Also Interested in Art and Design (sure, they are different), Humanities, Phycology, Philosophy.
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=@broccolism)](https://velog.io/@broccolism) 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=@broccolism)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=broccolism.log)](https://velog.io/broccolism.log) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=broccolism)](https://github.com/eungyeole/velog-readme-stats)
 
 
 <!--
