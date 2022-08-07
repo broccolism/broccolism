@@ -7,7 +7,7 @@
 
 ---
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=broccolism)](https://velog.io/broccolism.log)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=broccolism)](https://velog.io/@broccolism)
 
 - Also Interested in Art and Design (sure, they are different), Humanities, Phycology, Philosophy.
 
