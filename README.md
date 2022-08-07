@@ -1,7 +1,7 @@
 ### 🥦 broccolism
 > More learn, Higher resolution to see the world.
 
-- I’m currently working on **flutter mobile app project**.
+- I’m currently working on **gaining wide and shallow experiences**.
 
 - I’m currently studying - JAVA, OOP, Spring, Angular.
     - I have enjoyed learning - recommender system, HCI, Javascript/Typescript, React, and Flutter.
@@ -11,7 +11,10 @@
 
 - 💬 Ask me about everything. I would appreciate it. mile3880@gmail.com
 
-- Also Interested in Art and Design (sure, they are different), Humanities, Phycology, Philosophy
+- Also Interested in Art and Design (sure, they are different), Humanities, Phycology, Philosophy.
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=@broccolism)](https://velog.io/@eungyeole) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=@broccolism)](https://github.com/eungyeole/velog-readme-stats)
 
 
 <!--
