@@ -3,6 +3,7 @@
 
 - I’m currently working on **gaining wide and shallow experiences**.
   - studying - JAVA, OOP, Spring, Angular.
+  - making - Flutter app as a side project.
   - enjoyed learning - recommender system, HCI, Javascript/Typescript, React, and Flutter.
 
 ---
