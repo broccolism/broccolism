@@ -12,7 +12,13 @@
 
 - Also Interested in Art and Design (sure, they are different), Humanities, Phycology, Philosophy.
 
-- Ask me everything. I would appreciate it. mile3880@gmail.com
+<a href="https://www.instagram.com/broccoli_soup_/">
+ <img src="https://img.shields.io/badge/Instagram-444444?style=flat&logo=Instagram&logoColor=fd5b86"/>
+</a>
+
+<a href="https://www.instagram.com/broccoli_soup_/">
+ <img src="https://img.shields.io/badge/Gmail-fe5d5b?style=flat&logo=Gmail&logoColor=ffffff"/>
+</a>
 
 <!--
 - 👯 I’m looking to collaborate on ...
